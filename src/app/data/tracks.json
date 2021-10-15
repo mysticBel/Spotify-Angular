@@ -1,0 +1,131 @@
+{
+    "data": [{
+            "_id": 1,
+            "name": "A head full of dreams ",
+            "album": "A head full of dreams ",
+            "cover": "https://www.lahiguera.net/musicalia/artistas/coldplay/disco/6537/coldplay_a_head_full_of_dreams-portada.jpg",
+            "artist": {
+                "name": "Coldplay",
+                "nickname": "Coldplay",
+                "nationality": "UK"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-1.mp3"
+        },
+        {
+            "_id": 2,
+            "name": "Dare",
+            "album": "Demon Days",
+            "cover": "https://img.discogs.com/yW9zh7xos1zPJds9Vu_zI0TfCoI=/fit-in/394x400/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-474703-1457294216-3965.jpeg.jpg",
+            "artist": {
+                "name": "Gorillaz",
+                "nickname": "Gorillaz",
+                "nationality": "UK"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-2.mp3"
+        },
+        {
+            "_id": 3,
+            "name": "Stupify",
+            "album": "The Sickness",
+            "cover": "https://img.discogs.com/bLYGSt14SvwCaimo7gGYs0Qn5-I=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-367455-1159401116.jpeg.jpg",
+            "artist": {
+                "name": "Disturbed",
+                "nickname": "Disturbed",
+                "nationality": "US"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-3.mp3"
+        },
+        {
+            "_id": 4,
+            "name": "Winning",
+            "album": "From The Lions Mouth",
+            "cover": "https://img.discogs.com/EobFPxB10W0H-mFyVzMz8PnOEIA=/fit-in/598x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9886654-1487972424-9720.jpeg.jpg",
+            "artist": {
+                "name": "The Sound",
+                "nickname": "The Sound",
+                "nationality": "UK"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-4.mp3"
+        },
+        {
+            "_id": 5,
+            "name": "New Dawn Fades",
+            "album": "Unknown Pleasures",
+            "cover": "https://img.discogs.com/W29UJG8g50Z06d94Tnt-JXX9zyY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11400-1482229812-4990.jpeg.jpg",
+            "artist": {
+                "name": "Joy Division",
+                "nickname": "Joy Division",
+                "nationality": "UK"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-5.mp3"
+        },
+        {
+            "_id": 6,
+            "name": "A Place For My Head",
+            "album": " Hybrid Theory",
+            "cover": "https://img.discogs.com/9UM8Yl5iPIPr3A4Ntz0A0MDb_8w=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-369408-1245380540.jpeg.jpg",
+            "artist": {
+                "name": "Linkin Park",
+                "nickname": "Linkin Park",
+                "nationality": "US"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-6.mp3"
+        },
+        {
+            "_id": 7,
+            "name": "My Way",
+            "album": "Chocolate Starfish And The Hot Dog Flavored Water",
+            "cover": "https://lastfm.freetls.fastly.net/i/u/770x0/93c89aa784144c1d8fd9a9f4cbe21c34.jpg#93c89aa784144c1d8fd9a9f4cbe21c34",
+            "artist": {
+                "name": "Limp Bizkit",
+                "nickname": "Limp Bizkit",
+                "nationality": "US"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-7.mp3"
+        },
+        {
+            "_id": 8,
+            "name": "Second Skin",
+            "album": "Script Of The Bridge",
+            "cover": "https://lastfm.freetls.fastly.net/i/u/770x0/93c89aa784144c1d8fd9a9f4cbe21c34.jpg#93c89aa784144c1d8fd9a9f4cbe21c34",
+            "artist": {
+                "name": "The Chameleons ‎",
+                "nickname": "The Chameleons ‎",
+                "nationality": "UK"
+            },
+            "duration": {
+                "start": 0,
+                "end": 333
+            },
+            "url": "http://localhost:3000/track-8.mp3"
+        }
+    ]
+}

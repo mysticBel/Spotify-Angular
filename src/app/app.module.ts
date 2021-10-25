@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 
 
 @NgModule({
-  declarations: [
+  declarations: [        // declares : components, directives, pipes 
     AppComponent,
   ],
-  imports: [
+  imports: [             // Only imports other modules
     BrowserModule,
     AppRoutingModule
   ],
+
+  exports: [],           // You can export what you declare :)  
   providers: [],
   bootstrap: [AppComponent]
 })

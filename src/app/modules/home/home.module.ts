@@ -8,7 +8,7 @@ import { HomeRoutingModule } from './home-routing.module';
   declarations: [],
   imports: [
     CommonModule,
-    HomeRoutingModule
+    HomeRoutingModule // this we import for lazyloading
   ]
 })
 export class HomeModule { }
